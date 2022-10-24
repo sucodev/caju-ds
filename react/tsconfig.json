@@ -1,4 +1,0 @@
-{
-    "extends": "@caju-ds/ts-config/react.json",
-    "include": ["src"],
-  }
